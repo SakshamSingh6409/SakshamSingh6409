@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Saksham
 
-<!--
-**SakshamSingh6409/SakshamSingh6409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a developer and student passionate about building smart, efficient systems — whether it's through Python scripts, embedded Arduino projects, or exploring the fundamentals of C.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 💡 I enjoy solving problems with Python and diving into algorithmic clarity.
+- ⚙️ Comfortable with the basics of C and low-level logic.
+- 🔌 Well-versed in Arduino projects — from sensor integration to real-world automation.
+- 🐧 I love customizing Linux environments for speed, aesthetics, and coding workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Work On
+- Python-based tools and visualizations
+- Arduino circuits and microcontroller logic
+- Minimal Linux setups
+
+## 🎯 Goals
+- Build scalable, maintainable systems that anticipate edge cases
+- Master advanced plotting and simulation techniques
+- Create visually organized content for assignments and projects
+
+## 📫 Connect With Me
+Feel free to explore my repositories, suggest improvements, or collaborate on cool ideas. I’m always up for learning and building something meaningful.
+
+---
+
+Thanks for visiting — let’s make something awesome together!
