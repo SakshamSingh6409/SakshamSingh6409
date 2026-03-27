@@ -13,11 +13,6 @@ Welcome to my GitHub! I'm a developer and student passionate about building smar
 - Arduino circuits and microcontroller logic
 - Minimal Linux setups
 
-## 🎯 Goals
-- Build scalable, maintainable systems that anticipate edge cases
-- Master advanced plotting and simulation techniques
-- Create visually organized content for assignments and projects
-
 ## 📫 Connect With Me
 Feel free to explore my repositories, suggest improvements, or collaborate on cool ideas. I’m always up for learning and building something meaningful.
 
